@@ -30,7 +30,7 @@
 
 **[store.js](src%2Fpages%2Fstore.js)**
 
-```js
+```jsx
 import {makeAutoObservable} from "mobx";
 import {createContext} from "react";
 
