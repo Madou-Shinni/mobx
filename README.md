@@ -26,7 +26,7 @@
 
 > no provider 根据页面来写store，每个页面组件内写store.js，使用createContext创建上，useContext来获取
 
-<h4>注意：组件需要使用 **observer()** 包裹才能共享state<h4>
+注意：组件需要使用 **observer()** 包裹才能共享state
 
 **[store.js](src%2Fpages%2Fstore.js)**
 
