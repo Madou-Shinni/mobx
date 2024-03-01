@@ -5,6 +5,13 @@
 1. [x] react18
 2. [x] mobx6
 
+## 安装mobx
+
+```bash
+npm install --save mobx
+npm install --save mobx-react-lite
+```
+
 ## 目录结构
 
 ```bash
